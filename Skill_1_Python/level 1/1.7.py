@@ -1,0 +1,3 @@
+variable = True
+
+print(variable)
